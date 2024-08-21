@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "896153645255",
+    "project_id": "quesosexpressdb",
+    "storage_bucket": "quesosexpressdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:896153645255:android:8525572a891eb50f0e0ee2",
+        "android_client_info": {
+          "package_name": "idat.edu.quesosexpress"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "896153645255-kl4i7qiellt469od7hppvg3id5riqbj2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "idat.edu.quesosexpress",
+            "certificate_hash": "73018760ad84527d5b2a357ae385a42727195308"
+          }
+        },
+        {
+          "client_id": "896153645255-pm4coir6q9gf2e51l4cct1glqhs495kf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWHMoO8-1TruiFGVJLPVzoABWJbrtkmCg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "896153645255-pm4coir6q9gf2e51l4cct1glqhs495kf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
